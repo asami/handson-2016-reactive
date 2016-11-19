@@ -1,0 +1,10 @@
+*~
+bin
+gen
+lib_managed
+*.bak
+target
+.*
+boot
+src_managed
+*.log
